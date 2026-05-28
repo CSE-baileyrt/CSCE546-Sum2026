@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GeoNotificador</string>
+    <string name="geofence_alert">Has entrado en una ubicación guardada.</string>
+    <string name="settings_title">Configuración</string>
+    <string name="phone_number">Número de teléfono</string>
+</resources>
